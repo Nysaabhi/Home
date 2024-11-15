@@ -586,13 +586,13 @@ body > h1:first-of-type:not(.heading) {
                 <a href="https://nysaabhi.github.io/mymom">
                     <i class="fas fa-tag"></i>
                 </a>
-                <span>E-Commerce</span>
+                <span>Marketplace</span>
             </div>
             <div class="nav-item" data-page="rent">
                 <a href="booking.html">
                     <i class="fas fa-calendar-alt"></i>
                 </a>
-                <span>Rent Marketplace</span>
+                <span>Rent</span>
             </div>
             <div class="nav-item" data-page="location">
                 <a href="location.html">
